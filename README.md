@@ -1,4 +1,4 @@
-# Bitcoin Transaction Network
+# bitcoin
 
 This respository contains source code that it was implemented and used during a thesis named "Analysing the Network Structure of the Bitcoin Transaction Network". More specifically, it contains 2 Bash scripts that were used to collect information from the website "Blockchain.com" about the blocks and the transactions of the Bitcoin Blockchain and 1 java program that was used to download the geo-location information of IPs from the website "IP-API".
 
